@@ -1,0 +1,67 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This is a simple app that displays random famous quotes each time a button is clicked.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://josephmonreal00.github.io/techdegree-project-1/",
+            "github_link": "https://github.com/josephmonreal00/techdegree-project-1",
+            "image_urls": []
+        },
+        {
+            "id": 1,
+            "project_name": "List Pagination and Filtering",
+            "description": "Main purpose of project was to learn the technique of pagination to enhance the usability of a web page.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://josephmonreal00.github.io/techdegree-project-2/",
+            "github_link": "https://github.com/josephmonreal00/techdegree-project-2",
+            "image_urls": []
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Interactive registration form that requires all fields and lets user know of any errors along the way.",
+            "technologies": ["JavaScript", "HTML", "CSS", "JQUERY"],
+            "live_link": "https://josephmonreal00.github.io/techdegree-project-3/",
+            "github_link": "https://github.com/josephmonreal00/techdegree-project-3",
+            "image_urls": []
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "Browser based word-guessing game created using OOP (Object Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking on an onscreen keyboard.",
+            "technologies": ["JavaScript", "HTML", "CSS", "JQUERY"],
+            "live_link": "",
+            "github_link": "https://josephmonreal00.github.io/techdegree-project-4/",
+            "image_urls": []
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "App of a fictional company called Awesome Startup. A Random User Generator API is used to grab information for 12 random employess and use that data to create a directory.",
+            "technologies": ["JavaScript", "JSON", "XML", "CSS", "HTML", "HTTP", "JQUERY"],
+            "live_link": "https://josephmonreal00.github.io/techdegree-project-5/",
+            "github_link": "https://github.com/josephmonreal00/techdegree-project-5",
+            "image_urls": []
+        },
+        {
+            "id": 5,
+            "project_name": "PHP Quiz App",
+            "description": "10 questions per quiz and at the end given a grade for each quiz.",
+            "technologies": ["PHP", "HTML", "CSS"],
+            "live_link": "https://josephmonreal00.github.io/quizapp/.",
+            "github_link": "",
+            "image_urls": []
+        },
+        {
+            "id": 6,
+            "project_name": "Portfolio Template Build W/ GRID",
+            "description": "Created a template using the CSS Grid.",
+            "technologies": ["CSS GRID", "HTML", "CSS", "JQUERY"],
+            "live_link": "https://josephmonreal00.github.io/",
+            "github_link": "https://github.com/josephmonreal00/josephmonreal00.github.io",
+            "image_urls": []
+        }
+    ]
+}
