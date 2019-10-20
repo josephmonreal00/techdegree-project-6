@@ -7,7 +7,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://josephmonreal00.github.io/techdegree-project-1/",
             "github_link": "https://github.com/josephmonreal00/techdegree-project-1",
-            "image_urls": []
+            "image_urls": ["images/landingpage.png", "images/landingPage_1a.png", "images/landingpage1b.png"]
         },
         {
             "id": 1,
@@ -16,7 +16,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://josephmonreal00.github.io/techdegree-project-2/",
             "github_link": "https://github.com/josephmonreal00/techdegree-project-2",
-            "image_urls": []
+            "image_urls": ["images/landingPage_2.png", "images/proj2b.png", "images/proj2.png"]
         },
         {
             "id": 2,
@@ -25,16 +25,16 @@
             "technologies": ["JavaScript", "HTML", "CSS", "JQUERY"],
             "live_link": "https://josephmonreal00.github.io/techdegree-project-3/",
             "github_link": "https://github.com/josephmonreal00/techdegree-project-3",
-            "image_urls": []
+            "image_urls": ["images/landingPage_3.png", "images/landingPage_3a.png", "images/proj3err.png"]
         },
         {
             "id": 3,
             "project_name": "OOP Game Show App",
             "description": "Browser based word-guessing game created using OOP (Object Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking on an onscreen keyboard.",
             "technologies": ["JavaScript", "HTML", "CSS", "JQUERY"],
-            "live_link": "",
+            "live_link": "https://josephmonreal00.github.io/techdegree-project-4/",
             "github_link": "https://josephmonreal00.github.io/techdegree-project-4/",
-            "image_urls": []
+            "image_urls": ["images/landingPage_4.png", "images/proj42.png","images/proj4play.png"]
         },
         {
             "id": 4,
@@ -43,25 +43,16 @@
             "technologies": ["JavaScript", "JSON", "XML", "CSS", "HTML", "HTTP", "JQUERY"],
             "live_link": "https://josephmonreal00.github.io/techdegree-project-5/",
             "github_link": "https://github.com/josephmonreal00/techdegree-project-5",
-            "image_urls": []
-        },
-        {
-            "id": 5,
-            "project_name": "PHP Quiz App",
-            "description": "10 questions per quiz and at the end given a grade for each quiz.",
-            "technologies": ["PHP", "HTML", "CSS"],
-            "live_link": "https://josephmonreal00.github.io/quizapp/.",
-            "github_link": "",
-            "image_urls": []
+            "image_urls": ["images/landingPage_5.png", "images/landingPage_5a.png", "images/proj5.png"]
         },
         {
             "id": 6,
-            "project_name": "Portfolio Template Build W/ GRID",
+            "project_name": "Portfolio Template Build W/ CSS GRID",
             "description": "Created a template using the CSS Grid.",
             "technologies": ["CSS GRID", "HTML", "CSS", "JQUERY"],
             "live_link": "https://josephmonreal00.github.io/",
             "github_link": "https://github.com/josephmonreal00/josephmonreal00.github.io",
-            "image_urls": []
+            "image_urls": ["images/gridcsstemplate.png", "images/yoshi1.png", "images/yoshi2.png"]
         }
     ]
 }
