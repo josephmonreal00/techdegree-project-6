@@ -11,6 +11,7 @@ app.use('/', theRoutes);
 app.use('/about', theRoutes);
 app.use('/index', theRoutes);
 app.use('/project', theRoutes);
+app.use('/layout', theRoutes);
 
 
 //app.use('/project/:id', function (req, res, next) {

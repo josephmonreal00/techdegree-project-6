@@ -8,6 +8,10 @@ router.get('/', (req, res, next) => {
     res.render("index", {theProjects: arr});
 });
 
+router.get('/layout', (req, res, next) => {
+    res.render("index", {theProjects: arr});
+});
+
 router.get('/about', (req, res, next) => {
     res.render("about");
 });
