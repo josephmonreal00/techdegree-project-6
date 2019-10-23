@@ -20,7 +20,7 @@ block content
       
       each val in theProjects
           .cell
-            a(href=val['live_link'], target="_blank")
+            a(href="/projects/" + val['id'])
               img.thumbnail(src=val['image_urls'][0])
               h5=val['project_name']
 

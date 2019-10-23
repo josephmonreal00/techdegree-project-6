@@ -46,7 +46,7 @@
             "image_urls": ["images/landingPage_5.png", "images/landingPage_5a.png", "images/proj5.png"]
         },
         {
-            "id": 6,
+            "id": 5,
             "project_name": "Portfolio Template Build W/ CSS GRID",
             "description": "Created a template using the CSS Grid.",
             "technologies": ["CSS GRID", "HTML", "CSS", "JQUERY"],
